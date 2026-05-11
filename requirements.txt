@@ -1,0 +1,12 @@
+streamlit
+plotly
+pandas
+fastapi
+uvicorn
+loguru
+scikit-learn
+numpy
+paho-mqtt
+python-can
+pytest
+requests
